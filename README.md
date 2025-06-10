@@ -5,6 +5,29 @@ A curated collection of chapter PDFs for the DataCamp DevOps Skill Track, coveri
 
 ## 📂 Repository Structure
 
+├── 0. DevOps Concepts
+│ ├── chapter1.pdf
+│ ├── chapter2.pdf
+│ └── chapter3.pdf
+├── 1. Containerization and Virtualization Concepts
+│ ├── chapter1.pdf
+│ └── chapter2.pdf
+├── 2. Introduction to Docker
+│ ├── chapter1.pdf
+│ ├── chapter2.pdf
+│ └── chapter3.pdf
+├── 3. Introduction to Kubernetes
+│ ├── chapter1.pdf
+│ ├── chapter2.pdf
+│ └── chapter3.pdf
+├── 4. Intermediate Docker
+│ ├── chapter1.pdf
+│ ├── chapter2.pdf
+│ ├── chapter3.pdf
+│ └── chapter4.pdf
+└── README.md
+
+
 
 ## 📖 Module Overview
 
